@@ -4,7 +4,7 @@ import java.util.*;
 public class SparseArrays {
 
     public static void main(String[] args) {
-          Scanner sn= new Scanner(System.in);
+        Scanner sn= new Scanner(System.in);
         int slength=sn.nextInt();
         String sarr[]=new String[slength];
         for(int i=0;i<slength;i++)
