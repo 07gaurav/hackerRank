@@ -12,7 +12,6 @@ public class Solution {
         for(int i=0;i<totalnum;i++){
             sb.append("SOS");
         }
-
         String expectedstr=sb.toString();
 
         int count=0;
@@ -24,6 +23,5 @@ public class Solution {
                 count++;
         }
         System.out.println(count);
-
     }
 }
